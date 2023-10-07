@@ -57,7 +57,8 @@
     "@types/lodash.mergewith": "^4.6.6",
     "@types/tabulator-tables": "^5.5.2",
     "dashify": "^2.0.0",
-    "lodash.mergewith": "^4.6.2"
+    "lodash.mergewith": "^4.6.2",
+    "patch-package": "^8.0.0"
   },
   "peerDependencies": {
     "tabulator-tables": "^5.5.2",
